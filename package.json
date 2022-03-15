@@ -1,0 +1,14 @@
+{
+  "name": "erc721-nft",
+  "version": "1.0.0",
+  "description": "Create NFT Platform with secure and stable library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fidelion",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^1.7.1"
+  }
+}
